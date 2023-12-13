@@ -4,7 +4,6 @@
 
 layout: home
 ---
-# RHEL9 ❤️ Ansible
 
 This site collects info on using Redhat 9 and Ansible together.
 
