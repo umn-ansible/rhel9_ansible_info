@@ -4,7 +4,7 @@ title: Using RHEl9 and Ansible
 permalink: /using_ansible_and_rhel9
 ---
 
-# Using RHEL9 and Ansible at the University of Minnesota
+# Using RHEL9 and Ansible
 
 Basic operations:
 

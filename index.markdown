@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: RHEL9 ❤️ Ansible
 ---
-
-# RHEL9 ❤️ Ansible
 
 This site collects info on using Redhat 9 and Ansible together.
 
