@@ -22,7 +22,7 @@ title: Using RHEL9 and Ansible
 email: latistecharch@umn.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Collection of reminders to ourselves about to use RHEL9 and Ansible together
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/rhel9_ansible_info" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
