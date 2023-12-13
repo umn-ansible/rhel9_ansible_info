@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Using RHEl9 and Ansible
+title: Using RHEL9 and Ansible
 permalink: /using_ansible_and_rhel9
 ---
-
-# Using RHEL9 and Ansible
 
 Basic operations:
 
